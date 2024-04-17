@@ -1,0 +1,16 @@
+.help-box {
+    width:80%;
+    padding: 8px 12px;
+    font-size: 0.9em;
+    border-radius: 4px;
+    margin-top: 12px;
+    background-color: #f0f0f03a; 
+}
+
+
+.success-text{background-color: #8bc34a2e;}
+.info-text{background-color: #03a9f41f;}
+.danger-text{background-color: #f443361a;}
+.warning-text{background-color: #f4a8361a;}
+
+tr input, tr select{width: 360px;}
